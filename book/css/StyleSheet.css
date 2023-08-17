@@ -1,0 +1,53 @@
+﻿
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../img/sign1.jpg');
+    background-repeat: round;
+}
+
+.col-md-6 {
+    justify-content: center;
+    display: flex;
+    background: transparent;
+    position: relative;
+    align-items: center;
+    width: 80%;
+}
+.MyFormBx {
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: brightness(0.5);
+    width: 82%;
+    height: 570px;
+    padding: 6%;
+}
+.logo {
+    color:turquoise;
+    font-size: 30px;
+}
+
+.text-item h2 {
+    color:aliceblue;
+    font-size: 60px;
+    line-height: 1;
+}
+
+.text-item p {
+    color: aliceblue;
+    font-size: 16px;
+    margin: 20px 0;
+}
+.text-center {
+    color: aliceblue;
+}
+.NavList{
+    margin-right: 5%;
+}
+
+
+
+         
+
